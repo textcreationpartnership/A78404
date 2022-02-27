@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cavaliers diurnall written by adventure, most perfectly collected (peradventure) for any mans reading, that will venture.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78404</idno>
+            <idno type="STC">Wing C1572</idno>
+            <idno type="STC">Thomason E383_4</idno>
+            <idno type="STC">ESTC R201428</idno>
+            <idno type="EEBO-CITATION">99861939</idno>
+            <idno type="PROQUEST">99861939</idno>
+            <idno type="VID">114085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114085)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E383[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cavaliers diurnall written by adventure, most perfectly collected (peradventure) for any mans reading, that will venture.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A satire on the newspapers of the day.</note>
+                  <note>Annotation on Thomason copy: "March.31.1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newspapers --  England --  Humor --  Early works to 1800.</term>
+               <term>Pamphleteers --  England --  Early works to 1800.</term>
+               <term>Newsletters --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Journalists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="newsbook">
+            <pb n="1" facs="tcp:114085:1" rendition="simple:additions"/>
+            <p>The Cavaliers DIURNALL written by Adventure, Moſt perfectly collected (peradventure) For any mans Reading, that will Venture.</p>
+            <div type="mock_preface">
+               <p>
+                  <seg rend="decorInit">G</seg>Reat Matters and Buſineſſes of State being obſcured from mine eyes, kept from mine eares, and hid from my vnderstanding and knowledge, by which meanes I am incapable of all ſuch things as I am ignorant of, which makes me unwilling to follow the faſhi<g ref="char:EOLhyphen"/>on of the Writers of theſe Weekly times, either to wander in a wit-wooll-gathering way of Newes-catching every day abroad, or to ſtudie the Art of making Intelligences at home; therefore ſuch <hi>Mercuriall</hi> Infor<g ref="char:EOLhyphen"/>mations which I relate, I doe verily believe the Readers
+<pb n="2" facs="tcp:114085:2"/>may believe (if they will:) Howſoever, I now not yet much out of the common Roade of our perpetuall <hi>Diurnall-</hi>Mongers; for (as they have ſhewed me the way) a long tedious Preamble is a great helpe to fill and ſtuffe out a ſhort ſheet of Paper: for which Cauſes aforeſaid, I will be as Moderate in my <hi>Intelligence,</hi> as Perfect in my <hi>Oc<g ref="char:EOLhyphen"/>currences,</hi> and as True in my <hi>Diurnall,</hi> according to that Moderation, Perfection, and Truth, which apper<g ref="char:EOLhyphen"/>taines to this following Narration.</p>
+            </div>
+            <div type="newsbook_proper">
+               <p>THis day the beſt and good Newes from his Ma<g ref="char:EOLhyphen"/>jeſtie is, that hee is in good health (which God continue) yet hee is not well pleaſed with the Troubles and Perturbations of his People and Kingdomes: It is to be unfainedly deſired of all good and true Chri<g ref="char:EOLhyphen"/>ſtians, <hi>Engliſh, Scottiſh, Welch, Iriſh, French,</hi> or any loyall-hearted ſubject whatſoever, that there were (or may be) a Right Vnderſtanding, Accommodation, and true Reconciliation betwixt his Majeſtie and the High Court of Parliament. It is thought, that his Majeſties next Remove will be from <hi>Holmby;</hi> but when, or to which of his Houſes, is to me unknowne: His poore ſervants doe not care how neere, or how ſoone his Ma<g ref="char:EOLhyphen"/>jeſtie comes; I meane, many who are aged, and in extreame want, who have not any meanes of ſubſi<g ref="char:EOLhyphen"/>ſtence; ſuch as have, according to their Oathes and Duties, attended on his Majeſties Perſon; and ſuch, indeed, as never bare Armes in theſe unnaturall Di<g ref="char:EOLhyphen"/>ſtractions; ſuch as are Friendleſſe, Moneyleſſe, Har<g ref="char:EOLhyphen"/>bourleſſe, and Helpeleſſe; and ſuch as may be eaſily knowne by their bare Attyre and thin Faces.</p>
+               <p>It was certified, that this day there were divers people ſcattered in moſt parts of his Majeſties Do<g ref="char:EOLhyphen"/>minions,
+<pb n="3" facs="tcp:114085:2"/>who doe deteſt the name of Peace, but da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e not looke Warre in the face: it is thought meet to put all ſuch in the front of an Armie, that by the ad<g ref="char:EOLhyphen"/>venturous brunt and ſhock of a Battaile their Valours may be tryed. It is expected, that <hi>Nabal</hi> hath more wit then fooliſhly to aske, <hi>who is David?</hi> Nor will <hi>Shimei</hi> barke ſo lowd as he did once, and too often; <hi>Libertiniſme</hi> ſhall no more be nick-nam'd, and called <hi>Christian Libertie;</hi> Want and Wantonneſſe doe ſel<g ref="char:EOLhyphen"/>dome harbour in any one perſon: but it is concluded, that Detraction and Sedition are not ſo inſeparable, but that the one treads upon the others heeles.</p>
+               <p>Newes came, that <hi>Abington</hi> Fayre was this yeare on their Weekely Market-day, Monday, the eighth of <hi>March;</hi> where (amongſt many rich Commodities, of Rattles, Hobby-horſes, Knights and Kings of Ginger<g ref="char:EOLhyphen"/>bread, and ſuch Rarities of Art and Nature) there were Pamphlets of ſmall price and leſſe worth; ſome Reverend Ballads, with ſome Grave Volumes of A<g ref="char:EOLhyphen"/>ſtronomica<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Predictions, ſuch as <hi>Erra Pater, Adam Fowle-weather,</hi> and ſuch like. There was one (with the reſt) a nameleſſe Booke and Author, which repor<g ref="char:EOLhyphen"/>ted ſtr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nge things, paſt, preſent, and to come: but as paſt things are gone, becauſe wee have little hold-faſt of any thing good for the preſent, I preſent you with the future. The ſaid Booke ſpeakes of an ancient wo<g ref="char:EOLhyphen"/>man of <hi>Banbury,</hi> named <hi>Good-Wife Quiet,</hi> the daughter of a Woollen-Baker in <hi>Coventry-Blue,</hi> at the Signe of the three Snow-balls in warme Water: This woman was ſaid to have a Wooden Stone at her Doore, and a great Iron Peare-Tree in her Back-ſide; by theſe ſtrange Markes and Signes ſhee was knowne: Her Pro<g ref="char:EOLhyphen"/>pheſies and Predictions fore-told, That Peace would
+<pb n="4" facs="tcp:114085:3"/>bring Plentie; That Hypocrites are Diſſemblers; That Tyrants want Mercie; That Trecherie ſhall wrong Truth; That one Thiefe ſhall hang another; That Dotage ſhall be turned back, and transformed to Non<g ref="char:EOLhyphen"/>age; That meane men ſhall be changed into men of Meanes, and that men of Meanes ſhall be ſtrangely metamorphoſed into meane men; That honeſt plaine<g ref="char:EOLhyphen"/>dealing ſhall be in ſuch plentifull abundance, that it ſhall goe a begging up and downe the Streetes, and Charitie be ſo cold, that ſhee would be glad to be hang'd in a Chimney Cornor; That Milke ſhould not be as deare as Muſcadine; and that by Geogra<g ref="char:EOLhyphen"/>phie and Geometrie it might eaſily be proved, that if it were a mile from the bottome of <hi>Shooters Hill</hi> to the top, then by true dimenſion and meaſure it was another mile from the top to the bottome. Theſe Ob<g ref="char:EOLhyphen"/>ſervations, with many others, are in the ſaid dangerous Booke, of which perhaps you may heare further relation in the next.</p>
+               <p>This day it was reported by the Carrier (of <hi>Mid<g ref="char:EOLhyphen"/>dleborough</hi> in <hi>Monmouthſhire</hi>) that the Pope was turn'd <hi>Anabaptist</hi> or <hi>Brownist;</hi> but I wiſh the Brethren to beware how they truſt him, for he ſpeakes <hi>Latine</hi> (the Language of the Beaſt) and it is to be feared, that all the Rites and Ceremonies of the <hi>Romiſh</hi> Catholique Religion will not eaſily be ſwopt out of his Conſci<g ref="char:EOLhyphen"/>ence.</p>
+               <p>The Cardinall <hi>Bembus</hi> wrote to the Arch-biſhop of <hi>Toledo,</hi> to ſignifie unto him what griefe there was in <hi>Rome</hi> for the inconſtant wavering of his Holineſſe; the States of <hi>Italy</hi> are troubled with it, <hi>Poland</hi> is mole<g ref="char:EOLhyphen"/>ſted, <hi>France</hi> is diſquiered; <hi>Bohemia, Hungaria, Austria,</hi> and many parts of <hi>Germanie</hi> are doubtfull, that old
+<pb n="5" facs="tcp:114085:3"/>Sects and Hereſies may riſe, and new Schiſmaticall Opinions breed; <hi>England</hi> is wearie of them, and hear<g ref="char:EOLhyphen"/>tily deſires, as they have one good God, ſo one good Religion, and one good King, <hi>Charles,</hi> who is the ſame wee have and hope for.</p>
+               <p>There is great hope that <hi>Ireland</hi> will be at Peace, before the <hi>Papists</hi> and <hi>Protestants</hi> doe agree in mat<g ref="char:EOLhyphen"/>ters of Faith; and that the <hi>Protestant</hi> true Subjects will lay downe Armes, when the <hi>Romiſh</hi> Catholiques ſhall lay downe theirs: Howſoever, many of the Re<g ref="char:EOLhyphen"/>bels there will be forced to live in Boggs, weare thin<g ref="char:EOLhyphen"/>ſoal'd Brogues, and eate Shamracks, if they be not more obedient, and at peace amongſt themſelves the ſooner. And by certaine Letters from the <hi>Iriſh</hi> Re<g ref="char:EOLhyphen"/>bels lately ſent hither, they declare themſelves to be reſolv'd, That as long as they live, there ſhall be a greater number of Thieves amongſt them then of true men.</p>
+               <p>I might (if I ought) and I could (if I would) relate how a great Sea-Horſe was caſt upon <hi>Dunſmore-Heath,</hi> with ſtrange Newes in his fore-hoofe, on the neere ſide; but becauſe the Relation is grounded upon Vn<g ref="char:EOLhyphen"/>certainties, and thereby I might abuſe my Readers with Vntruths (as many Occurrent <hi>Mercurie</hi> makers have formerly done) I will Moderate my Intelligence, till ſuch time as Time gives me more certaine No<g ref="char:EOLhyphen"/>tice.</p>
+               <p>It was concluded this day, That what man ſoever that had not any Foe or Enemie, that every ſuch per<g ref="char:EOLhyphen"/>ſon ſhould aſſure himſelfe to have no true friend; and that as Miſchiefe is often painted over with a ſhew of Good, or as a Wolfe is like a Dogge, ſo is a Flatterer
+<pb n="6" facs="tcp:114085:4"/>ſo like a Friend, that a man muſt have a cleare in<g ref="char:EOLhyphen"/>ſight to ſee his inſide.</p>
+               <p>Alſo it was this day agreed, That becauſe many hu<g ref="char:EOLhyphen"/>mourous Sectaries cannot (or will not) frame their Opinions according to Gods Word, therefore they will doe what they can to frame Gods Word accord<g ref="char:EOLhyphen"/>ing to their Opinions: Like as the Carpenters in the Iſle of <hi>Lesbos,</hi> whoſe Rules and Squares were made of Lead, whereby they could bend the Rule as they plea<g ref="char:EOLhyphen"/>ſed; ſo that if the Timber would not frame ſtrait to be meaſured by the Rule, they had the Art to make the Rule crooked to the forme of the Timber: ſo all the Papiſts, Heretikes, and Sectaries, would make the Scrip<g ref="char:EOLhyphen"/>tures as a <hi>Lesbian</hi> Rule.</p>
+               <p>This day newes came, that the Foot-Poſt of <hi>Stepney</hi> was dead; and that after his deceaſe, he deſired one of the Church-Wardens of <hi>Wapping</hi> to invite all the blind men and women in the P<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſh to ſee h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m buri<g ref="char:EOLhyphen"/>ed in Chriſtian Buriall, with his head Nor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hw<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd, and his face down-ward: His Place is <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſ<g ref="char:EOLhyphen"/>poſed of.</p>
+               <p>It was concluded by the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y honeſt men, that Pamphleters and <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were the fire-brands of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you may ſooner find a Begger without <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Diurnall</hi> without Lyes: (I am afraid that this <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eet which you are now reading <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the faſhion, that it wants impudence to ſay, <hi>Not Guiltie</hi>) Howſoever, theirs and this may be cryed in the Streets, and for want of wiſdome they may be regarded. Amongſt theſe walking Statione<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, (whoſe Authors wits have commonly but one Sheet to Lye in weekely) one of the beſt and moſt currant of
+<pb n="7" facs="tcp:114085:4"/>theſe uncurrant <hi>Occurrences</hi> and <hi>Curranto's,</hi> is one <hi>Pigge,</hi> I know not where he had his Intelligence, eyther from <hi>Aleppo</hi> or <hi>Mexico</hi> (for all the foure Windes were his Meſſengers) he hath beene eclipſed at leaſt five quar<g ref="char:EOLhyphen"/>ters of a yeare, and in his roome are ſprung or ſprou<g ref="char:EOLhyphen"/>ted out a ſwarme of <hi>Mercuries,</hi> with as many heads as <hi>Hydra,</hi> and as many varieties as words; ſuch as, <hi>Mercurius Gallobelgicus, Britaunicus, Hibernicus, Au<g ref="char:EOLhyphen"/>licus, Diutinus, Caelicus, Aquaticus, Rusticus, Candi<g ref="char:EOLhyphen"/>dius, Civicus, Infernalis Hibernicalis, Post,</hi> and <hi>Men<g ref="char:EOLhyphen"/>dacius,</hi> &amp;c. It is the good pleaſure of many honeſt men, that all the <hi>Mercuries</hi> may be ſublimated and qualified with Faſting-Spettle; which is by interpre<g ref="char:EOLhyphen"/>tation, that for every malicious Lye they write, they ſhould faſt one Meale: by which meanes, the num<g ref="char:EOLhyphen"/>ber of them would eyther bee thinner, (or looke thinne.)</p>
+               <p>In the time of the Great <hi>Alexander,</hi> there lived an ignorant Poet named <hi>Cherrillus,</hi> who dayly did write ſuch Halting, Impotent, Lame, Ridiculous Lines (or Verſes) that <hi>Alexander</hi> gave him a Penſion, to make him forbeare Writing. So it is thought convenient, that all our weekely Newes-making <hi>Mercuries</hi> mouthes may be ſtop'd or bung'd up (with a <hi>Graveſ-end</hi> Toaſt) with ſome Competencie, to eate and live upon; or elſe, if there be ſuch a thing in <hi>England</hi> as the <hi>Good-Behaviour,</hi> it is convenient that they were all bound to it.</p>
+            </div>
+            <div type="conclusion">
+               <p>And as concerning the truth of this my <hi>Diurnall,</hi>the Reader needes not make any question of it; for it will be quickly perceived by any man of Reaſon, that this
+<pb n="8" facs="tcp:114085:5"/>which I have written is ſo like many of the former Au<g ref="char:EOLhyphen"/>thors Workes (in this kind) as if they had been all whelpes of one Litter, all made of purpoſe to no purpoſe, but to ſhew, that wee (Ink-Squitterers, and Weekely Teeming-Pamphleters) are fellowes that can heare Newes, though our Eares were lost (for the Pillorie doth not bite ſo of<g ref="char:EOLhyphen"/>ten as the Rigour of the Law may inflict) for which Cauſes, it is deſired that wee had all done, before wee were all undone.</p>
+               <p>The Newes that's before written may be read without danger, and it is hoped (or expected) that no man of Judgement, Wit, or Reaſon, will trouble himſelfe much in ſearching the Truth of it; The Author did not ſneake and ſculke in <hi>Weſtminſter-Hall</hi> for his Intelligence, but it was brought home to him in his Chamber, from whence hee hath ſent it to you and your Grave Conſide<g ref="char:EOLhyphen"/>rations.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
